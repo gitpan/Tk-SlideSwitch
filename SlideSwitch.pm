@@ -1,4 +1,4 @@
-$Tk::SlideSwitch::VERSION = '1.0';
+$Tk::SlideSwitch::VERSION = '1.1';
 
 package Tk::SlideSwitch;
 
